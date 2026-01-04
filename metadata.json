@@ -1,0 +1,5 @@
+{
+  "name": "AI 違い探しマスター",
+  "description": "Gemini APIを使用してリアルタイムで生成される、AI間違い探しゲーム。毎回異なるパズルで観察力を鍛えましょう。",
+  "requestFramePermissions": []
+}
